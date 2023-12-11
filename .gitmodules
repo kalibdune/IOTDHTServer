@@ -1,0 +1,3 @@
+[submodule "ESPDHT"]
+	path = ESPDHT
+	url = https://github.com/kalibdune/ESPDHT.git
